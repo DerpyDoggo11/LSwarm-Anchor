@@ -8,7 +8,7 @@ A UWB Anchor made for the LSwarm micro drones
 ![Schematic](schematic.png)
 
 ## Introduction
-In an effort to make a cheaper alternative for micro drones, specifically for volumetric (3D) light displays, I designed drones that use an ultra-wide-band (UWB) module to communicate with ground stations with UWB modules often called anchors. With three of these modules placed in a triangular formation, you can estimate the drone's specific position in 2D space. With four or more of these modules, you can precisely track the drone's psoition in a full 3D space. I recommend around 5 modules for more precision (also LCSC tends to offer pcbs in terms of 5 which makes this almost just as cheap), but four modules will work as well. 
+In an effort to make a cheaper alternative for micro drones, specifically for volumetric (3D) light displays, I designed drones that use an ultra-wide-band (UWB) module instead of an expensive gps to communicate with ground stations with UWB modules often called anchors. With three of these modules placed in a triangular formation, you can estimate the drone's specific position in 2D space. With four or more of these modules, you can precisely track the drone's position in a full 3D space. I recommend around 5 modules for more precision (also LCSC tends to offer pcbs in terms of 5 which makes this almost just as cheap), but four modules will work as well. 
 
 I have not physically tested this device yet, but typically UWB modules can have a range of up to 100 meters or around 300 feet, which is more than enough for many applications. Also, UWB frequenceis can work through walls, but it may be less accurate or cause desyncing with the drone. 
 
