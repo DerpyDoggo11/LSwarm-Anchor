@@ -710,7 +710,7 @@
         "uuid": "3b20eb37-7ae5-4161-b479-075ab1fb6765"
       }
     ],
-    "used_designators": "C57",
+    "used_designators": "LED1-6,C57,U3",
     "variants": []
   },
   "sheets": [
