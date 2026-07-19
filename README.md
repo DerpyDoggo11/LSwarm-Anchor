@@ -1,11 +1,16 @@
 # LSwarm Anchor
 A UWB Anchor made for the LSwarm micro drones
 
+## 3D Preview
 ![3D PCB](model.png)
 
+## Wiring
 ![PCB](wiring.png)
 
+## Schematic
 ![Schematic](schematic.png)
+
+### Download ./latestProduction to begin fabricating the PCB
 
 ## Introduction
 In an effort to make a cheaper alternative for micro drones, specifically for volumetric (3D) light displays, I designed drones that use an ultra-wide-band (UWB) module instead of an expensive gps to communicate with ground stations with UWB modules often called anchors. With three of these modules placed in a triangular formation, you can estimate the drone's specific position in 2D space. With four or more of these modules, you can precisely track the drone's position in a full 3D space. I recommend around 5 modules for more precision (also LCSC tends to offer pcbs in terms of 5 which makes this almost just as cheap), but four modules will work as well. 
